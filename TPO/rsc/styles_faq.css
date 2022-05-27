@@ -1,0 +1,18 @@
+.container{
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #eee;
+    border-radius: 10px;
+    border: 3px inset #000;
+    text-align: center;
+}
+
+.preg{
+    margin: 1rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.resp{
+    margin: 2rem;
+}
